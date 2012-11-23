@@ -14,7 +14,6 @@
    Shared Styles
 ----------------------------------------- */
 
-table th { font-weight: bold; }
 table td, table th { padding: 9px 10px; text-align: center; }
 table tr th:first-child, table tr td:first-child {text-align: left;}
 
@@ -26,15 +25,15 @@ table tr th:first-child, table tr td:first-child {text-align: left;}
 	
 	.pinned { position: absolute; left: 0; top: 0; background: #fff; width: 35%; overflow: hidden; overflow-x: scroll; }
 	.pinned table { border-right: none; border-left: none; width: 100%; }
-	.pinned table th, .pinned table td { white-space: nowrap; }
-	.pinned table th { padding:10px 10px 11px; }
+	.pinned table th, .pinned table td { white-space: nowrap; text-align: left;}
+	.pinned table th { padding:11px 10px 12px; }
 	.pinned td:last-child { border-bottom: 0; }
 	
 	div.table-wrapper { position: relative; margin-bottom: 20px; overflow: hidden; border-right: 1px solid #ccc; }
 	div.table-wrapper div.scrollable table { margin-left: 35%; }
 	div.table-wrapper div.scrollable { overflow: scroll; overflow-y: hidden; }	
 	
-	table.responsive td, table.responsive th { position: relative; white-space: nowrap; overflow: hidden; }
+	table.responsive td, table.responsive th { position: relative; white-space: nowrap; overflow: hidden; text-align: center; }
 	table.responsive th:first-child, table.responsive td:first-child, table.responsive td:first-child, table.responsive.pinned td { display: none; }
 	
 }
