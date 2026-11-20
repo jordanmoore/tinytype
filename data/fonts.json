@@ -1,0 +1,4117 @@
+{
+  "checked": "2026-11-19",
+  "sources": {
+    "ios": "https://developer.apple.com/fonts/system-fonts/",
+    "macos": "https://developer.apple.com/fonts/system-fonts/",
+    "android": "https://android.googlesource.com/platform/frameworks/base/+/refs/heads/main/data/fonts/fonts.xml",
+    "windows": "https://learn.microsoft.com/en-us/typography/fonts/windows_11_font_list"
+  },
+  "counts": {
+    "ios": 81,
+    "android": 156,
+    "macos": 175,
+    "windows": 63,
+    "all": 374,
+    "mobileBoth": 3
+  },
+  "scripts": {
+    "adlam": {
+      "label": "Adlam",
+      "sample": "𞤀𞤣𞤤𞤢𞤥"
+    },
+    "ahom": {
+      "label": "Ahom",
+      "sample": "𑜀𑜁𑜂𑜃𑜄𑜅"
+    },
+    "anatolian-hieroglyphs": {
+      "label": "Anatolian Hieroglyphs",
+      "sample": "𔐀𔐁𔐂𔐃𔐄𔐅"
+    },
+    "arabic": {
+      "label": "Arabic",
+      "sample": "العربية"
+    },
+    "armenian": {
+      "label": "Armenian",
+      "sample": "Հայերեն"
+    },
+    "avestan": {
+      "label": "Avestan",
+      "sample": "𐬀𐬁𐬂𐬃𐬄𐬅"
+    },
+    "balinese": {
+      "label": "Balinese",
+      "sample": "ᬅᬆᬇᬈᬉᬊ"
+    },
+    "bamum": {
+      "label": "Bamum",
+      "sample": "ꚠꚡꚢꚣꚤꚥ"
+    },
+    "bassa-vah": {
+      "label": "Bassa Vah",
+      "sample": "𖫐𖫑𖫒𖫓𖫔𖫕"
+    },
+    "batak": {
+      "label": "Batak",
+      "sample": "ᯀᯁᯂᯃᯄᯅ"
+    },
+    "bengali": {
+      "label": "Bengali",
+      "sample": "বাংলা"
+    },
+    "bhaiksuki": {
+      "label": "Bhaiksuki",
+      "sample": "𑰀𑰁𑰂𑰃𑰄𑰅"
+    },
+    "brahmi": {
+      "label": "Brahmi",
+      "sample": "𑀃𑀄𑀅𑀆𑀇𑀈"
+    },
+    "braille": {
+      "label": "Braille",
+      "sample": "⠃⠗⠁⠊⠇⠇⠑"
+    },
+    "buginese": {
+      "label": "Buginese",
+      "sample": "ᨀᨁᨂᨃᨄᨅ"
+    },
+    "buhid": {
+      "label": "Buhid",
+      "sample": "ᝀᝁᝂᝃᝄᝅ"
+    },
+    "canadian-aboriginal": {
+      "label": "Canadian Aboriginal syllabics",
+      "sample": "ᐃᓄᒃᑎᑐᑦ"
+    },
+    "carian": {
+      "label": "Carian",
+      "sample": "𐊠𐊡𐊢𐊣𐊤𐊥"
+    },
+    "chakma": {
+      "label": "Chakma",
+      "sample": "𑄃𑄄𑄅𑄆𑄇𑄈"
+    },
+    "cham": {
+      "label": "Cham",
+      "sample": "ꨀꨁꨂꨃꨄꨅ"
+    },
+    "cherokee": {
+      "label": "Cherokee",
+      "sample": "ᏣᎳᎩ"
+    },
+    "chinese-simplified": {
+      "label": "Chinese (Simplified)",
+      "sample": "简体中文"
+    },
+    "chinese-traditional": {
+      "label": "Chinese (Traditional)",
+      "sample": "繁體中文"
+    },
+    "cjk": {
+      "label": "Chinese, Japanese and Korean",
+      "sample": "中文 日本語 한국어"
+    },
+    "coptic": {
+      "label": "Coptic",
+      "sample": "ϢϣϤϥϦϧ"
+    },
+    "cuneiform": {
+      "label": "Cuneiform",
+      "sample": "𒀀𒀁𒀂𒀃𒀄𒀅"
+    },
+    "cypriot": {
+      "label": "Cypriot",
+      "sample": "𐠀𐠁𐠂𐠃𐠄𐠅"
+    },
+    "deseret": {
+      "label": "Deseret",
+      "sample": "𐐀𐐁𐐂𐐃𐐄𐐅"
+    },
+    "devanagari": {
+      "label": "Devanagari",
+      "sample": "हिन्दी"
+    },
+    "dogra": {
+      "label": "Dogra",
+      "sample": "𑠀𑠁𑠂𑠃𑠄𑠅"
+    },
+    "egyptian-hieroglyphs": {
+      "label": "Egyptian Hieroglyphs",
+      "sample": "𓀀𓀁𓀂𓀃𓀄𓀅"
+    },
+    "elbasan": {
+      "label": "Elbasan",
+      "sample": "𐔀𐔁𐔂𐔃𐔄𐔅"
+    },
+    "emoji": {
+      "label": "Emoji",
+      "sample": "😀🎨🌍🚀"
+    },
+    "ethiopic": {
+      "label": "Ethiopic",
+      "sample": "አማርኛ"
+    },
+    "georgian": {
+      "label": "Georgian",
+      "sample": "ქართული"
+    },
+    "glagolitic": {
+      "label": "Glagolitic",
+      "sample": "ⰀⰁⰂⰃⰄⰅ"
+    },
+    "gothic": {
+      "label": "Gothic",
+      "sample": "𐌰𐌱𐌲𐌳𐌴𐌵"
+    },
+    "grantha": {
+      "label": "Grantha",
+      "sample": "𑌅𑌆𑌇𑌈𑌉𑌊"
+    },
+    "gujarati": {
+      "label": "Gujarati",
+      "sample": "ગુજરાતી"
+    },
+    "gunjala-gondi": {
+      "label": "Gunjala Gondi",
+      "sample": "𑵠𑵡𑵢𑵣𑵤𑵥"
+    },
+    "gurmukhi": {
+      "label": "Gurmukhi",
+      "sample": "ਪੰਜਾਬੀ"
+    },
+    "hanifi-rohingya": {
+      "label": "Hanifi Rohingya",
+      "sample": "𐴀𐴁𐴂𐴃𐴄𐴅"
+    },
+    "hanunoo": {
+      "label": "Hanunoo",
+      "sample": "ᜠᜡᜢᜣᜤᜥ"
+    },
+    "hatran": {
+      "label": "Hatran",
+      "sample": "𐣠𐣡𐣢𐣣𐣤𐣥"
+    },
+    "hebrew": {
+      "label": "Hebrew",
+      "sample": "עברית"
+    },
+    "imperial-aramaic": {
+      "label": "Imperial Aramaic",
+      "sample": "𐡀𐡁𐡂𐡃𐡄𐡅"
+    },
+    "inscriptional-pahlavi": {
+      "label": "Inscriptional Pahlavi",
+      "sample": "𐭠𐭡𐭢𐭣𐭤𐭥"
+    },
+    "inscriptional-parthian": {
+      "label": "Inscriptional Parthian",
+      "sample": "𐭀𐭁𐭂𐭃𐭄𐭅"
+    },
+    "japanese": {
+      "label": "Japanese",
+      "sample": "日本語のかな"
+    },
+    "javanese": {
+      "label": "Javanese",
+      "sample": "ꦄꦅꦆꦇꦈꦉ"
+    },
+    "kaithi": {
+      "label": "Kaithi",
+      "sample": "𑂃𑂄𑂅𑂆𑂇𑂈"
+    },
+    "kannada": {
+      "label": "Kannada",
+      "sample": "ಕನ್ನಡ"
+    },
+    "kayah-li": {
+      "label": "Kayah Li",
+      "sample": "ꤊꤋꤌꤍꤎꤏ"
+    },
+    "kharoshthi": {
+      "label": "Kharoshthi",
+      "sample": "𐨀𐨐𐨑𐨒𐨓𐨕"
+    },
+    "khmer": {
+      "label": "Khmer",
+      "sample": "ភាសាខ្មែរ"
+    },
+    "khojki": {
+      "label": "Khojki",
+      "sample": "𑈀𑈁𑈂𑈃𑈄𑈅"
+    },
+    "korean": {
+      "label": "Korean",
+      "sample": "한국어"
+    },
+    "lao": {
+      "label": "Lao",
+      "sample": "ພາສາລາວ"
+    },
+    "latin": {
+      "label": "Latin",
+      "sample": ""
+    },
+    "lepcha": {
+      "label": "Lepcha",
+      "sample": "ᰀᰁᰂᰃᰄᰅ"
+    },
+    "limbu": {
+      "label": "Limbu",
+      "sample": "ᤀᤁᤂᤃᤄᤅ"
+    },
+    "linear-a": {
+      "label": "Linear A",
+      "sample": "𐘀𐘁𐘂𐘃𐘄𐘅"
+    },
+    "linear-b": {
+      "label": "Linear B",
+      "sample": "𐀀𐀁𐀂𐀃𐀄𐀅"
+    },
+    "lisu": {
+      "label": "Lisu",
+      "sample": "ꓐꓑꓒꓓꓔꓕ"
+    },
+    "lycian": {
+      "label": "Lycian",
+      "sample": "𐊀𐊁𐊂𐊃𐊄𐊅"
+    },
+    "lydian": {
+      "label": "Lydian",
+      "sample": "𐤠𐤡𐤢𐤣𐤤𐤥"
+    },
+    "malayalam": {
+      "label": "Malayalam",
+      "sample": "മലയാളം"
+    },
+    "mandaic": {
+      "label": "Mandaic",
+      "sample": "ࡀࡁࡂࡃࡄࡅ"
+    },
+    "manichaean": {
+      "label": "Manichaean",
+      "sample": "𐫀𐫁𐫂𐫃𐫄𐫅"
+    },
+    "marchen": {
+      "label": "Marchen",
+      "sample": "𑱲𑱳𑱴𑱵𑱶𑱷"
+    },
+    "masaram-gondi": {
+      "label": "Masaram Gondi",
+      "sample": "𑴀𑴁𑴂𑴃𑴄𑴅"
+    },
+    "math": {
+      "label": "Mathematics",
+      "sample": "∑∫√∞≠±"
+    },
+    "medefaidrin": {
+      "label": "Medefaidrin",
+      "sample": "𖹀𖹁𖹂𖹃𖹄𖹅"
+    },
+    "meetei-mayek": {
+      "label": "Meetei Mayek",
+      "sample": "ꫠꫡꫢꫣꫤꫥ"
+    },
+    "meroitic": {
+      "label": "Meroitic",
+      "sample": "𐦠𐦡𐦢𐦣𐦤𐦥"
+    },
+    "miao": {
+      "label": "Miao",
+      "sample": "𖼀𖼁𖼂𖼃𖼄𖼅"
+    },
+    "modi": {
+      "label": "Modi",
+      "sample": "𑘀𑘁𑘂𑘃𑘄𑘅"
+    },
+    "mongolian": {
+      "label": "Mongolian",
+      "sample": "ᠮᠣᠩᠭᠣᠯ"
+    },
+    "mro": {
+      "label": "Mro",
+      "sample": "𖩀𖩁𖩂𖩃𖩄𖩅"
+    },
+    "multani": {
+      "label": "Multani",
+      "sample": "𑊀𑊁𑊂𑊃𑊄𑊅"
+    },
+    "myanmar": {
+      "label": "Myanmar",
+      "sample": "မြန်မာ"
+    },
+    "nabataean": {
+      "label": "Nabataean",
+      "sample": "𐢀𐢁𐢂𐢃𐢄𐢅"
+    },
+    "new-tai-lue": {
+      "label": "New Tai Lue",
+      "sample": "ᦀᦁᦂᦃᦄᦅ"
+    },
+    "newa": {
+      "label": "Newa",
+      "sample": "𑐀𑐁𑐂𑐃𑐄𑐅"
+    },
+    "nko": {
+      "label": "N'Ko",
+      "sample": "ߒߞߏ"
+    },
+    "nyiakeng-puachue-hmong": {
+      "label": "Nyiakeng Puachue Hmong",
+      "sample": "𞄀𞄁𞄂𞄃𞄄𞄅"
+    },
+    "ogham": {
+      "label": "Ogham",
+      "sample": "ᚁᚂᚃᚄᚅᚆ"
+    },
+    "ol-chiki": {
+      "label": "Ol Chiki",
+      "sample": "ᱚᱛᱜᱝᱞᱟ"
+    },
+    "old-italic": {
+      "label": "Old Italic",
+      "sample": "𐌀𐌁𐌂𐌃𐌄𐌅"
+    },
+    "old-north-arabian": {
+      "label": "Old North Arabian",
+      "sample": "𐪀𐪁𐪂𐪃𐪄𐪅"
+    },
+    "old-permic": {
+      "label": "Old Permic",
+      "sample": "𐍐𐍑𐍒𐍓𐍔𐍕"
+    },
+    "old-persian": {
+      "label": "Old Persian",
+      "sample": "𐎠𐎡𐎢𐎣𐎤𐎥"
+    },
+    "old-south-arabian": {
+      "label": "Old South Arabian",
+      "sample": "𐩠𐩡𐩢𐩣𐩤𐩥"
+    },
+    "old-turkic": {
+      "label": "Old Turkic",
+      "sample": "𐰀𐰁𐰂𐰃𐰄𐰅"
+    },
+    "oriya": {
+      "label": "Odia",
+      "sample": "ଓଡ଼ିଆ"
+    },
+    "osage": {
+      "label": "Osage",
+      "sample": "𐒰𐒱𐒲𐒳𐒴𐒵"
+    },
+    "osmanya": {
+      "label": "Osmanya",
+      "sample": "𐒀𐒁𐒂𐒃𐒄𐒅"
+    },
+    "pahawh-hmong": {
+      "label": "Pahawh Hmong",
+      "sample": "𖬀𖬁𖬂𖬃𖬄𖬅"
+    },
+    "palmyrene": {
+      "label": "Palmyrene",
+      "sample": "𐡠𐡡𐡢𐡣𐡤𐡥"
+    },
+    "pau-cin-hau": {
+      "label": "Pau Cin Hau",
+      "sample": "𑫀𑫁𑫂𑫃𑫄𑫅"
+    },
+    "phags-pa": {
+      "label": "Phags Pa",
+      "sample": "ꡀꡁꡂꡃꡄꡅ"
+    },
+    "phoenician": {
+      "label": "Phoenician",
+      "sample": "𐤀𐤁𐤂𐤃𐤄𐤅"
+    },
+    "rejang": {
+      "label": "Rejang",
+      "sample": "ꤰꤱꤲꤳꤴꤵ"
+    },
+    "runic": {
+      "label": "Runic",
+      "sample": "ᚠᚡᚢᚣᚤᚥ"
+    },
+    "samaritan": {
+      "label": "Samaritan",
+      "sample": "ࠀࠁࠂࠃࠄࠅ"
+    },
+    "saurashtra": {
+      "label": "Saurashtra",
+      "sample": "ꢂꢃꢄꢅꢆꢇ"
+    },
+    "sharada": {
+      "label": "Sharada",
+      "sample": "𑆃𑆄𑆅𑆆𑆇𑆈"
+    },
+    "shavian": {
+      "label": "Shavian",
+      "sample": "𐑐𐑑𐑒𐑓𐑔𐑕"
+    },
+    "sinhala": {
+      "label": "Sinhala",
+      "sample": "සිංහල"
+    },
+    "sora-sompeng": {
+      "label": "Sora Sompeng",
+      "sample": "𑃐𑃑𑃒𑃓𑃔𑃕"
+    },
+    "soyombo": {
+      "label": "Soyombo",
+      "sample": "𑩐𑩜𑩝𑩞𑩟𑩠"
+    },
+    "sundanese": {
+      "label": "Sundanese",
+      "sample": "ᮃᮄᮅᮆᮇᮈ"
+    },
+    "syloti-nagri": {
+      "label": "Syloti Nagri",
+      "sample": "ꠀꠁꠃꠄꠅꠇ"
+    },
+    "symbols": {
+      "label": "Symbols",
+      "sample": "☀☂☯♞✈"
+    },
+    "syriac": {
+      "label": "Syriac",
+      "sample": "ܣܘܪܝܝܐ"
+    },
+    "tagalog": {
+      "label": "Tagalog",
+      "sample": "ᜀᜁᜂᜃᜄᜅ"
+    },
+    "tagbanwa": {
+      "label": "Tagbanwa",
+      "sample": "ᝠᝡᝢᝣᝤᝥ"
+    },
+    "tai-le": {
+      "label": "Tai Le",
+      "sample": "ᥐᥑᥒᥓᥔᥕ"
+    },
+    "tai-tham": {
+      "label": "Tai Tham",
+      "sample": "ᨠᨡᨢᨣᨤᨥ"
+    },
+    "tai-viet": {
+      "label": "Tai Viet",
+      "sample": "ꪀꪁꪂꪃꪄꪅ"
+    },
+    "takri": {
+      "label": "Takri",
+      "sample": "𑚀𑚁𑚂𑚃𑚄𑚅"
+    },
+    "tamil": {
+      "label": "Tamil",
+      "sample": "தமிழ்"
+    },
+    "telugu": {
+      "label": "Telugu",
+      "sample": "తెలుగు"
+    },
+    "thaana": {
+      "label": "Thaana",
+      "sample": "ދިވެހި"
+    },
+    "thai": {
+      "label": "Thai",
+      "sample": "ภาษาไทย"
+    },
+    "tibetan": {
+      "label": "Tibetan",
+      "sample": "བོད་ཡིག"
+    },
+    "tifinagh": {
+      "label": "Tifinagh",
+      "sample": "ⵜⵉⴼⵉⵏⴰⵖ"
+    },
+    "ugaritic": {
+      "label": "Ugaritic",
+      "sample": "𐎀𐎁𐎂𐎃𐎄𐎅"
+    },
+    "vai": {
+      "label": "Vai",
+      "sample": "ꔀꔁꔂꔃꔄꔅ"
+    },
+    "wancho": {
+      "label": "Wancho",
+      "sample": "𞋀𞋁𞋂𞋃𞋄𞋅"
+    },
+    "warang-citi": {
+      "label": "Warang Citi",
+      "sample": "𑢠𑢡𑢢𑢣𑢤𑢥"
+    },
+    "yezidi": {
+      "label": "Yezidi",
+      "sample": "𐺀𐺁𐺂𐺃𐺄𐺅"
+    },
+    "yi": {
+      "label": "Yi",
+      "sample": "ꆈꌠ"
+    }
+  },
+  "androidAliases": {
+    "arial": "Roboto",
+    "helvetica": "Roboto",
+    "tahoma": "Roboto",
+    "verdana": "Roboto",
+    "times": "Noto Serif",
+    "times new roman": "Noto Serif",
+    "palatino": "Noto Serif",
+    "georgia": "Noto Serif",
+    "baskerville": "Noto Serif",
+    "goudy": "Noto Serif",
+    "itc stone serif": "Noto Serif",
+    "monaco": "Droid Sans Mono",
+    "courier": "Cutive Mono",
+    "courier new": "Cutive Mono"
+  },
+  "stacks": [
+    {
+      "name": "User-interface sans",
+      "fonts": [
+        "Helvetica Neue",
+        "Roboto",
+        "Segoe UI",
+        "Arial"
+      ],
+      "generic": "sans-serif",
+      "lead": "system-ui",
+      "note": "Starting with system-ui hands iOS and macOS their San Francisco face, which has no public name. The named fonts are what each platform offers next."
+    },
+    {
+      "name": "Grotesque sans",
+      "fonts": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Roboto",
+        "Arial"
+      ],
+      "generic": "sans-serif"
+    },
+    {
+      "name": "Humanist sans",
+      "fonts": [
+        "Gill Sans",
+        "Corbel",
+        "Source Sans Pro",
+        "Tahoma",
+        "Verdana"
+      ],
+      "generic": "sans-serif"
+    },
+    {
+      "name": "Geometric sans",
+      "fonts": [
+        "Avenir Next",
+        "Avenir",
+        "Futura",
+        "Bahnschrift",
+        "Roboto"
+      ],
+      "generic": "sans-serif"
+    },
+    {
+      "name": "Condensed sans",
+      "fonts": [
+        "Avenir Next Condensed",
+        "DIN Condensed",
+        "Arial Narrow",
+        "Bahnschrift",
+        "Roboto"
+      ],
+      "generic": "sans-serif",
+      "note": "Nothing on Android is condensed. Roboto is the fallback so text still fits the same family."
+    },
+    {
+      "name": "Old-style serif",
+      "fonts": [
+        "Baskerville",
+        "Palatino",
+        "Palatino Linotype",
+        "Noto Serif",
+        "Georgia"
+      ],
+      "generic": "serif"
+    },
+    {
+      "name": "Transitional serif",
+      "fonts": [
+        "Georgia",
+        "Charter",
+        "Cambria",
+        "Noto Serif",
+        "Times New Roman"
+      ],
+      "generic": "serif"
+    },
+    {
+      "name": "Didone serif",
+      "fonts": [
+        "Didot",
+        "Bodoni 72",
+        "Constantia",
+        "Georgia",
+        "Noto Serif"
+      ],
+      "generic": "serif",
+      "note": "Only Apple ships a true didone. Constantia and Georgia keep the contrast high elsewhere."
+    },
+    {
+      "name": "Slab serif",
+      "fonts": [
+        "Rockwell",
+        "American Typewriter",
+        "Kefa",
+        "Georgia",
+        "Noto Serif"
+      ],
+      "generic": "serif",
+      "note": "Only Apple platforms carry a slab; the rest fall to a plain serif."
+    },
+    {
+      "name": "Monospace",
+      "fonts": [
+        "Menlo",
+        "Consolas",
+        "Cascadia Mono",
+        "Droid Sans Mono",
+        "Courier New"
+      ],
+      "generic": "monospace"
+    },
+    {
+      "name": "Rounded sans",
+      "fonts": [
+        "Arial Rounded MT Bold",
+        "Chalkboard SE",
+        "Segoe UI",
+        "Roboto"
+      ],
+      "generic": "sans-serif",
+      "note": "Rounded faces exist only on Apple platforms."
+    },
+    {
+      "name": "Casual handwriting",
+      "fonts": [
+        "Bradley Hand",
+        "Marker Felt",
+        "Segoe Print",
+        "Ink Free",
+        "Coming Soon"
+      ],
+      "generic": "cursive"
+    },
+    {
+      "name": "Formal script",
+      "fonts": [
+        "Snell Roundhand",
+        "Apple Chancery",
+        "Segoe Script",
+        "Dancing Script"
+      ],
+      "generic": "cursive"
+    },
+    {
+      "name": "Heavy display",
+      "fonts": [
+        "Impact",
+        "Arial Black",
+        "Helvetica Neue",
+        "Roboto"
+      ],
+      "generic": "sans-serif"
+    }
+  ],
+  "fonts": [
+    {
+      "name": "Academy Engraved LET",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "Al Bayan",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Al Nile",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Al Tarikh",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "American Typewriter",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Andale Mono",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Apple Braille",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "braille",
+      "style": "symbol",
+      "note": "Dot patterns for the embossed Braille cell."
+    },
+    {
+      "name": "Apple Chancery",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Apple Color Emoji",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "emoji",
+      "style": "emoji"
+    },
+    {
+      "name": "Apple SD Gothic Neo",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "korean",
+      "style": "sans"
+    },
+    {
+      "name": "Apple Symbols",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "AppleGothic",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "korean",
+      "style": "sans"
+    },
+    {
+      "name": "AppleMyungjo",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "korean",
+      "style": "serif"
+    },
+    {
+      "name": "Arial",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "androidAlias": "Roboto",
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Arial Black",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "Arial Hebrew",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "hebrew",
+      "style": "sans"
+    },
+    {
+      "name": "Arial Hebrew Scholar",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "hebrew",
+      "style": "sans"
+    },
+    {
+      "name": "Arial Narrow",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Arial Rounded MT Bold",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Arial Unicode MS",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Avenir",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Avenir Next",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Avenir Next Condensed",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Ayuthaya",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "thai",
+      "style": null
+    },
+    {
+      "name": "Baghdad",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Bahnschrift",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Bangla MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "bengali",
+      "style": "serif"
+    },
+    {
+      "name": "Bangla Sangam MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "bengali",
+      "style": "sans"
+    },
+    {
+      "name": "Baskerville",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "androidAlias": "Noto Serif",
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Beirut",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Big Caslon",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Bodoni 72",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif",
+      "note": "Apple lists this as a macOS system font only, although it ships on iOS too."
+    },
+    {
+      "name": "Bodoni 72 Oldstyle",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Bodoni 72 Smallcaps",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Bodoni Ornaments",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Bradley Hand",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Brush Script MT",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Calibri",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Cambria",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Cambria Math",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "math",
+      "style": "serif"
+    },
+    {
+      "name": "Candara",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Carrois Gothic SC",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Cascadia Code",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Cascadia Mono",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Chalkboard",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Chalkboard SE",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Chalkduster",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Charter",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Cochin",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Comic Sans MS",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Coming Soon",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Consolas",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Constantia",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Copperplate",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "Corbel",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Corsiva Hebrew",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "hebrew",
+      "style": null
+    },
+    {
+      "name": "Courier New",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "androidAlias": "Cutive Mono",
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Cutive Mono",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Damascus",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Dancing Script",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "DecoType Naskh",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Devanagari MT",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "devanagari",
+      "style": "serif"
+    },
+    {
+      "name": "Devanagari Sangam MN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "devanagari",
+      "style": "sans"
+    },
+    {
+      "name": "Didot",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "DIN Alternate",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "DIN Condensed",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Diwan Kufi",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Diwan Thuluth",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Droid Sans Mono",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Ebrima",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "ethiopic",
+      "style": "sans",
+      "note": "Also covers N'Ko, Tifinagh, Vai and Osmanya."
+    },
+    {
+      "name": "Euphemia UCAS",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "canadian-aboriginal",
+      "style": "sans"
+    },
+    {
+      "name": "Farah",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Farisi",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Franklin Gothic Medium",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Futura",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Gabriola",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Gadugi",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "cherokee",
+      "style": "sans",
+      "note": "Also covers Canadian Aboriginal syllabics."
+    },
+    {
+      "name": "Galvji",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "kannada",
+      "style": "sans"
+    },
+    {
+      "name": "GB18030 Bitmap",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "chinese-simplified",
+      "style": "sans"
+    },
+    {
+      "name": "Geeza Pro",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": "sans"
+    },
+    {
+      "name": "Geneva",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Georgia",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "androidAlias": "Noto Serif",
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Gill Sans",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Grantha Sangam MN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "grantha",
+      "style": "sans"
+    },
+    {
+      "name": "Gujarati MT",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "gujarati",
+      "style": "serif"
+    },
+    {
+      "name": "Gujarati Sangam MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "gujarati",
+      "style": "sans"
+    },
+    {
+      "name": "Gurmukhi MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "gurmukhi",
+      "style": "serif"
+    },
+    {
+      "name": "Gurmukhi MT",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "gurmukhi",
+      "style": "serif"
+    },
+    {
+      "name": "Gurmukhi Sangam MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "gurmukhi",
+      "style": "sans"
+    },
+    {
+      "name": "Heiti SC",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "chinese-simplified",
+      "style": "sans"
+    },
+    {
+      "name": "Heiti TC",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "chinese-traditional",
+      "style": "sans"
+    },
+    {
+      "name": "Helvetica",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "androidAlias": "Roboto",
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Helvetica Neue",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans",
+      "note": "The iOS UI face is San Francisco, reached with system-ui rather than by name."
+    },
+    {
+      "name": "Herculanum",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "Hiragino Maru Gothic ProN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "japanese",
+      "style": "sans"
+    },
+    {
+      "name": "Hiragino Mincho ProN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "japanese",
+      "style": "serif"
+    },
+    {
+      "name": "Hiragino Sans",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "japanese",
+      "style": "sans"
+    },
+    {
+      "name": "Hiragino Sans GB",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "chinese-simplified",
+      "style": "sans",
+      "note": "Simplified Chinese."
+    },
+    {
+      "name": "Hoefler Text",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "HoloLens MDL2 Assets",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Impact",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "InaiMathi",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "tamil",
+      "style": null
+    },
+    {
+      "name": "Ink Free",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "ITF Devanagari",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "devanagari",
+      "style": "serif"
+    },
+    {
+      "name": "ITF Devanagari Marathi",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "devanagari",
+      "style": "serif"
+    },
+    {
+      "name": "Javanese Text",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "javanese",
+      "style": "sans"
+    },
+    {
+      "name": "Kailasa",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "tibetan",
+      "style": "sans"
+    },
+    {
+      "name": "Kannada MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "kannada",
+      "style": "serif"
+    },
+    {
+      "name": "Kannada Sangam MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "kannada",
+      "style": "sans"
+    },
+    {
+      "name": "Kefa",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Khmer MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "khmer",
+      "style": "serif"
+    },
+    {
+      "name": "Khmer Sangam MN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "khmer",
+      "style": "sans"
+    },
+    {
+      "name": "Kohinoor Bangla",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "bengali",
+      "style": "sans"
+    },
+    {
+      "name": "Kohinoor Devanagari",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "devanagari",
+      "style": "sans"
+    },
+    {
+      "name": "Kohinoor Gujarati",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "gujarati",
+      "style": "sans"
+    },
+    {
+      "name": "Kohinoor Telugu",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "telugu",
+      "style": "sans"
+    },
+    {
+      "name": "Kokonor",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "tibetan",
+      "style": "sans"
+    },
+    {
+      "name": "Krungthep",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "thai",
+      "style": null
+    },
+    {
+      "name": "KufiStandardGK",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Lao MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "lao",
+      "style": "serif"
+    },
+    {
+      "name": "Lao Sangam MN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "lao",
+      "style": "sans"
+    },
+    {
+      "name": "Leelawadee UI",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "thai",
+      "style": "sans",
+      "note": "Also covers Lao, Khmer and Buginese."
+    },
+    {
+      "name": "Lucida Console",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Lucida Grande",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Lucida Sans Unicode",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Luminari",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "Malayalam MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "malayalam",
+      "style": "serif"
+    },
+    {
+      "name": "Malayalam Sangam MN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "malayalam",
+      "style": "sans"
+    },
+    {
+      "name": "Malgun Gothic",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "korean",
+      "style": "sans"
+    },
+    {
+      "name": "Marker Felt",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Marlett",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Menlo",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Microsoft Himalaya",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "tibetan",
+      "style": "sans"
+    },
+    {
+      "name": "Microsoft JhengHei",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "chinese-traditional",
+      "style": "sans"
+    },
+    {
+      "name": "Microsoft New Tai Lue",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "new-tai-lue",
+      "style": "sans"
+    },
+    {
+      "name": "Microsoft PhagsPa",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "phags-pa",
+      "style": "sans"
+    },
+    {
+      "name": "Microsoft Sans Serif",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Microsoft Tai Le",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "tai-le",
+      "style": "sans"
+    },
+    {
+      "name": "Microsoft YaHei",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "chinese-simplified",
+      "style": "sans"
+    },
+    {
+      "name": "Microsoft Yi Baiti",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "yi",
+      "style": "sans"
+    },
+    {
+      "name": "MingLiU-ExtB",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "chinese-traditional",
+      "style": "serif"
+    },
+    {
+      "name": "Mishafi",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Mishafi Gold",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Monaco",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "androidAlias": "Droid Sans Mono",
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "Mongolian Baiti",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "mongolian",
+      "style": "sans"
+    },
+    {
+      "name": "MS Gothic",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "japanese",
+      "style": "sans"
+    },
+    {
+      "name": "Mshtakan",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "armenian",
+      "style": null
+    },
+    {
+      "name": "MuktaMahee",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "gurmukhi",
+      "style": "sans"
+    },
+    {
+      "name": "Muna",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "MV Boli",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "thaana",
+      "style": "sans"
+    },
+    {
+      "name": "Myanmar MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "myanmar",
+      "style": "serif"
+    },
+    {
+      "name": "Myanmar Sangam MN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "myanmar",
+      "style": "sans"
+    },
+    {
+      "name": "Myanmar Text",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "myanmar",
+      "style": "sans"
+    },
+    {
+      "name": "Nadeem",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "New Peninim MT",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "hebrew",
+      "style": "serif"
+    },
+    {
+      "name": "Nirmala UI",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "devanagari",
+      "style": "sans",
+      "note": "Covers the major Indic scripts."
+    },
+    {
+      "name": "Noteworthy",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Noto Color Emoji",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "emoji",
+      "style": "emoji"
+    },
+    {
+      "name": "Noto Naskh Arabic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Noto Nastaliq Urdu",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Noto Sans Adlam",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "adlam",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Ahom",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "ahom",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Anatolian Hieroglyphs",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "anatolian-hieroglyphs",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Armenian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "armenian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Avestan",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "avestan",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Balinese",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "balinese",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Bamum",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "bamum",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Bassa Vah",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "bassa-vah",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Batak",
+      "ios": false,
+      "android": true,
+      "macos": true,
+      "windows": false,
+      "script": "batak",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Bengali",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "bengali",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Bhaiksuki",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "bhaiksuki",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Brahmi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "brahmi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Buginese",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "buginese",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Buhid",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "buhid",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Canadian Aboriginal",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "canadian-aboriginal",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Carian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "carian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Chakma",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "chakma",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Cham",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "cham",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Cherokee",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "cherokee",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans CJK",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "cjk",
+      "style": "sans",
+      "note": "Also installed under the names Noto Sans CJK JP, KR, SC and TC."
+    },
+    {
+      "name": "Noto Sans Coptic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "coptic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Cuneiform",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "cuneiform",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Cypriot",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "cypriot",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Deseret",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "deseret",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Devanagari",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "devanagari",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Egyptian Hieroglyphs",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "egyptian-hieroglyphs",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Elbasan",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "elbasan",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Ethiopic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "ethiopic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Georgian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "georgian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Glagolitic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "glagolitic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Gothic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "gothic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Grantha",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "grantha",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Gujarati",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "gujarati",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Gunjala Gondi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "gunjala-gondi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Gurmukhi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "gurmukhi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Hanifi Rohingya",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "hanifi-rohingya",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Hanunoo",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "hanunoo",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Hatran",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "hatran",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Hebrew",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "hebrew",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Imperial Aramaic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "imperial-aramaic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Inscriptional Pahlavi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "inscriptional-pahlavi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Inscriptional Parthian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "inscriptional-parthian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Javanese",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "javanese",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Kaithi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "kaithi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Kannada",
+      "ios": true,
+      "android": true,
+      "macos": true,
+      "windows": false,
+      "script": "kannada",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Kayah Li",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "kayah-li",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Kharoshthi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "kharoshthi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Khmer",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "khmer",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Khojki",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "khojki",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Lao",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "lao",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Lepcha",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "lepcha",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Limbu",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "limbu",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Linear A",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "linear-a",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Linear B",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "linear-b",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Lisu",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "lisu",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Lycian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "lycian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Lydian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "lydian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Malayalam",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "malayalam",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Mandaic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "mandaic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Manichaean",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "manichaean",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Marchen",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "marchen",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Masaram Gondi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "masaram-gondi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Medefaidrin",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "medefaidrin",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Meetei Mayek",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "meetei-mayek",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Meroitic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "meroitic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Miao",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "miao",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Modi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "modi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Mongolian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "mongolian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Mro",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "mro",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Multani",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "multani",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Myanmar",
+      "ios": true,
+      "android": true,
+      "macos": true,
+      "windows": false,
+      "script": "myanmar",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Nabataean",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "nabataean",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans New Tai Lue",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "new-tai-lue",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Newa",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "newa",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans NKo",
+      "ios": false,
+      "android": true,
+      "macos": true,
+      "windows": false,
+      "script": "nko",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Ogham",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "ogham",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Ol Chiki",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "ol-chiki",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Old Italic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "old-italic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Old North Arabian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "old-north-arabian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Old Permic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "old-permic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Old Persian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "old-persian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Old South Arabian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "old-south-arabian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Old Turkic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "old-turkic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Oriya",
+      "ios": true,
+      "android": true,
+      "macos": true,
+      "windows": false,
+      "script": "oriya",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Osage",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "osage",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Osmanya",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "osmanya",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Pahawh Hmong",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "pahawh-hmong",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Palmyrene",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "palmyrene",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Pau Cin Hau",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "pau-cin-hau",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans PhagsPa",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "phags-pa",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Phoenician",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "phoenician",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Rejang",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "rejang",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Runic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "runic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Samaritan",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "samaritan",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Saurashtra",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "saurashtra",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Sharada",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "sharada",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Shavian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "shavian",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Sinhala",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "sinhala",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Sora Sompeng",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "sora-sompeng",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Soyombo",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "soyombo",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Sundanese",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "sundanese",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Syloti Nagri",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "syloti-nagri",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Symbols",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Noto Sans Syriac",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "syriac",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Syriac Eastern",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "syriac",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Syriac Estrangela",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "syriac",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Syriac Western",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "syriac",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Tagalog",
+      "ios": false,
+      "android": true,
+      "macos": true,
+      "windows": false,
+      "script": "tagalog",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Tagbanwa",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "tagbanwa",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Tai Le",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "tai-le",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Tai Tham",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "tai-tham",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Tai Viet",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "tai-viet",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Takri",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "takri",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Tamil",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "tamil",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Telugu",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "telugu",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Thaana",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "thaana",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Thai",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "thai",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Tifinagh",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "tifinagh",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Ugaritic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "ugaritic",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Vai",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "vai",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Wancho",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "wancho",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Warang Citi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "warang-citi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Sans Yi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "yi",
+      "style": "sans"
+    },
+    {
+      "name": "Noto Serif",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Armenian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "armenian",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Bengali",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "bengali",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif CJK",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "cjk",
+      "style": "serif",
+      "note": "Also installed under the names Noto Serif CJK JP, KR, SC and TC."
+    },
+    {
+      "name": "Noto Serif Devanagari",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "devanagari",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Dogra",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "dogra",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Ethiopic",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "ethiopic",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Georgian",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "georgian",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Gujarati",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "gujarati",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Gurmukhi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "gurmukhi",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Hebrew",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "hebrew",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Hentaigana",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "japanese",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Kannada",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "kannada",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Khmer",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "khmer",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Lao",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "lao",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Malayalam",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "malayalam",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Myanmar",
+      "ios": false,
+      "android": true,
+      "macos": true,
+      "windows": false,
+      "script": "myanmar",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Nyiakeng Puachue Hmong",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "nyiakeng-puachue-hmong",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Sinhala",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "sinhala",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Tamil",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "tamil",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Telugu",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "telugu",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Thai",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "thai",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Tibetan",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "tibetan",
+      "style": "serif"
+    },
+    {
+      "name": "Noto Serif Yezidi",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "yezidi",
+      "style": "serif"
+    },
+    {
+      "name": "Optima",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Oriya MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "oriya",
+      "style": "serif"
+    },
+    {
+      "name": "Oriya Sangam MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "oriya",
+      "style": "sans"
+    },
+    {
+      "name": "Palatino",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "androidAlias": "Noto Serif",
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Palatino Linotype",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Papyrus",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "Party LET",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "Phosphate",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "Plantagenet Cherokee",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "cherokee",
+      "style": "sans"
+    },
+    {
+      "name": "PT Mono",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "mono"
+    },
+    {
+      "name": "PT Sans",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "PT Sans Caption",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "PT Sans Narrow",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "PT Serif",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "PT Serif Caption",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Raanana",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "hebrew",
+      "style": null
+    },
+    {
+      "name": "Roboto",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Roboto Flex",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "latin",
+      "style": "sans",
+      "note": "Variable; the Android 14 and later UI face."
+    },
+    {
+      "name": "Rockwell",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Sana",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Sathu",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "thai",
+      "style": null
+    },
+    {
+      "name": "Savoye LET",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Segoe Fluent Icons",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Segoe MDL2 Assets",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Segoe Print",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Segoe Script",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Segoe UI",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "sans",
+      "note": "The Windows UI face; system-ui resolves to it on Windows 10."
+    },
+    {
+      "name": "Segoe UI Emoji",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "emoji",
+      "style": "emoji"
+    },
+    {
+      "name": "Segoe UI Historic",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "symbols",
+      "style": "sans",
+      "note": "Historic scripts such as Runic, Ogham and Old Italic."
+    },
+    {
+      "name": "Segoe UI Symbol",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Segoe UI Variable",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "sans",
+      "note": "Windows 11 uses this as its UI face. The Display, Text and Small axes are optical sizes."
+    },
+    {
+      "name": "Shree Devanagari 714",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "devanagari",
+      "style": "serif"
+    },
+    {
+      "name": "SignPainter",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Silom",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "thai",
+      "style": null
+    },
+    {
+      "name": "SimSun",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "chinese-simplified",
+      "style": "serif"
+    },
+    {
+      "name": "Sinhala MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "sinhala",
+      "style": "serif"
+    },
+    {
+      "name": "Sinhala Sangam MN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "sinhala",
+      "style": "sans"
+    },
+    {
+      "name": "Sitka",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Skia",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Snell Roundhand",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    },
+    {
+      "name": "Songti SC",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "chinese-simplified",
+      "style": "serif"
+    },
+    {
+      "name": "Songti TC",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "chinese-traditional",
+      "style": "serif"
+    },
+    {
+      "name": "Source Sans Pro",
+      "ios": false,
+      "android": true,
+      "macos": false,
+      "windows": false,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "STIX Two Math",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "math",
+      "style": "serif"
+    },
+    {
+      "name": "STIX Two Text",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "STSong",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "chinese-simplified",
+      "style": "serif"
+    },
+    {
+      "name": "Sukhumvit Set",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "thai",
+      "style": "sans"
+    },
+    {
+      "name": "Sylfaen",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "armenian",
+      "style": "serif",
+      "note": "Also covers Georgian."
+    },
+    {
+      "name": "Symbol",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Tahoma",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "androidAlias": "Roboto",
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Tamil MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "tamil",
+      "style": "serif"
+    },
+    {
+      "name": "Tamil Sangam MN",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "tamil",
+      "style": "sans"
+    },
+    {
+      "name": "Telugu MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "telugu",
+      "style": "serif"
+    },
+    {
+      "name": "Telugu Sangam MN",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "telugu",
+      "style": "sans"
+    },
+    {
+      "name": "Thonburi",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "thai",
+      "style": "sans"
+    },
+    {
+      "name": "Times New Roman",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "androidAlias": "Noto Serif",
+      "script": "latin",
+      "style": "serif"
+    },
+    {
+      "name": "Trattatello",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "display"
+    },
+    {
+      "name": "Trebuchet MS",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Verdana",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "androidAlias": "Roboto",
+      "script": "latin",
+      "style": "sans"
+    },
+    {
+      "name": "Waseem",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "arabic",
+      "style": null
+    },
+    {
+      "name": "Webdings",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Wingdings",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": true,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Wingdings 2",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Wingdings 3",
+      "ios": false,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Yu Gothic",
+      "ios": false,
+      "android": false,
+      "macos": false,
+      "windows": true,
+      "script": "japanese",
+      "style": "sans"
+    },
+    {
+      "name": "Zapf Dingbats",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "symbols",
+      "style": "symbol"
+    },
+    {
+      "name": "Zapfino",
+      "ios": true,
+      "android": false,
+      "macos": true,
+      "windows": false,
+      "script": "latin",
+      "style": "handwriting"
+    }
+  ]
+}
