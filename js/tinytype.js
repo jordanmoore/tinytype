@@ -9,7 +9,7 @@
   const DESKTOP = new Set(['macos', 'windows']);
   const SYSTEM_UI = { ios: 'San Francisco', macos: 'San Francisco', android: 'Roboto', windows: 'Segoe UI' };
   const GENERIC_FOR_STYLE = { sans: 'sans-serif', serif: 'serif', mono: 'monospace', handwriting: 'cursive', display: 'sans-serif' };
-  const SAMPLE = 'Sphinx of black quartz, judge my vow.';
+  const SAMPLE = 'The quick brown fox jumps over the lazy dog.';
 
   let data;
   try {
